@@ -1,4 +1,4 @@
-h1. CircuitT monad
+# CircuitT monad
 
 Lets you circuit your computations. For example:
 
